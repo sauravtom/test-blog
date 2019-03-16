@@ -24,15 +24,11 @@ Aggressive players aren't terribly concerned with positional requirements, so al
 4. It's much harder to tell if the flop helped an aggressive player or not.
 5. An aggressive player is more likely to win big on his monster hands.
 
-
-
 ## Cons of Aggressive Play
 
 1. By playing lower-quality starting hands, an aggressive will face more difficult decisions after the flop.
 2. By playing and betting more hands, an aggressive player will more often run into well concealed monster hands.
 3. An aggressive player will face much bigger swings in stack sizes.
-
-
 
 The aggressive style is not inferior to the conservative style in theory, but it requires much more skill to play well. That's why beginners are well-advised to begin with conservative play, and only later experiment with aggressive moves. Aggressive play requires a well-developed feel for the table. 
 
@@ -43,8 +39,6 @@ If even aggressive play seems too tame for you, then perhaps you're ready for th
 ## Super-aggressive Approach
 
 Let's take it up a notch shall we. There are no starting requirements. A super-aggressive player is quite capable of opening with any two cards, in any position, at any time. That's what makes this style so exciting to watch, albeit dangerous to play. The idea of the super-aggressive style is to play a lot of pots and see a lot of flops, cheaply. Because a super-aggressive player can play a lot of hands from a lot of different positions, his opponents can't easily look at the flop and tell if it is dangerous for them or not. 
-
-
 
 Super-aggressive players decide whether or not to enter a pot in two ways. Of course, they'll come in with two cards that represent solid value. But even if their hand doesn't have solid value, they might still enter the pot if the other elements of their position are favorable. Have a lot of players already folded? Will they have position after the flop? Are the players behind them weak or intimidated? Do the players behind them have smallish stacks? Are the players behind them playing conservatively?
 
@@ -57,3 +51,7 @@ If the answers to these questions are mostly yes, then a super-aggressive player
 To succeed with this approach, you must be observant and imaginative. It's a highly demanding style, but its most successful practitioners, players like Gus Hansen, Daniel Negreanu, and Phil Ivey, have enjoyed great success recently.
 
 The main advantage of the super-aggressive style is that you play, and have a chance to win, a lot of pots. At a table of weak players, whether active or passive, simply getting in the pot is advantageous, and the super-aggressive style is probably optimal for that situation. The disadvantages of the style are the energy required and the danger courted. You're always dancing on the edge, always facing tough decisions, and mostly you're holding weak cards. All the delicate maneuvering required is tiring, and a tired player is more likely to blunder at some point.
+
+
+
+Aggressive play is highly rewarding, and the proof of this statement lies in poker game statistics, at the end of most tournaments you'll see that the aggressive players are usually in top 3 when it comes to stack size.
