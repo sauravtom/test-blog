@@ -3,39 +3,24 @@ title: The science and maths of poker
 subtitle: one post at a time
 image: /img/p0.jpg
 blurb:
-  heading: the basics
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Becoming better at Poker
+  text: .
 intro:
-  heading: How you can get better at it
+  heading: Before you dive deep
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
-products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    Do not play with anything more than you are comfortable losing. Poker is a
+    high variance game - you can do everything correctly and still lose. It's
+    always best to be prepared for the worst and have enough money to continue
+    playing if things happen to go south.
+
+
+    A good rule of thumb is to have at least 20 buy-ins to play cash games and
+    at least 50 buy-ins to play tournaments. Tournaments are known to have a
+    much higher variance than regular cash games, which is why you always want
+    to have a higher amount of buy-ins to play.
+products: []
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: test
+  text: test
 ---
 
