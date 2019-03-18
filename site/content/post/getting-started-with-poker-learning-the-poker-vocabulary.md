@@ -4,8 +4,6 @@ date: 2019-03-16T04:18:41.927Z
 description: Essential list of poker acronyms that you should know
 image: /img/a.jpg
 ---
-
-
 **All-in**: A bet or raise of all the chips you have in front of you.
 
 **Antes**: Money placed in the pot by all players at the beginning of a hand. In a typical tournament, players don't ante up until five or six betting rounds have passed.
@@ -49,3 +47,5 @@ players around, he may be known as the table captain or table bully.
 **Stack**: The pile of chips in front of each player.
 
 **Stack ratio**: The ratio of the number of chips in your stack divided by the initial pot. This number determines how aggressively you want to play.
+
+ **Sklansky's Gap Concept**: It takes a stronger hand to call than it does to raise.
