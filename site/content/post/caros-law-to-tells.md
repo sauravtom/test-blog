@@ -1,5 +1,5 @@
 ---
-title: Caro's law to tells
+title: Caro's law of tells
 date: 2019-03-18T07:19:53.056Z
 description: >-
   Summarised review of Caro's Book of Poker Tells: The Psychology and Body
