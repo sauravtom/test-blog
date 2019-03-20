@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://p0ker.netlify.com"
 languageCode = "en-us"
 title = "Homepage"
 disqusShortname = "sauravtom"
