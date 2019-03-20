@@ -1,6 +1,4 @@
 baseurl = "https://p0ker.netlify.com"
 languageCode = "en-us"
 title = "Homepage"
-disqusShortname = "sauravtom"
-[params]
-    addThis = "ra-123456789ABCDEF"
+disqusShortname = "p0ker"
