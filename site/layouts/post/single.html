@@ -12,7 +12,7 @@
       {{ .Content }}
       <br>
       <p>Like what you read? Please share</p>
-      {{ partial "sharing" (dict "TITLE" .Title "URL" .URL "subtitle" .Params.subtitle) }}
+      {{ partial "sharing" (dict "TITLE" .Title "URL" .Permalink "subtitle" .Params.subtitle) }}
       <br><br>
       <p>Have any questions? comment below</p>
 
